@@ -45,6 +45,8 @@ main{
 main section{
     width: 99vw;
     height: 78vh;
+}
+p{
     font-weight: 700;
 }
 
